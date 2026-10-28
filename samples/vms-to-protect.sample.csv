@@ -1,0 +1,4 @@
+VMName,ResourceGroup,Vault,Policy
+vm-contoso-app01,rg-app-prod,rsv-contoso-prod,DailyPolicy-30d
+vm-contoso-app02,rg-app-prod,rsv-contoso-prod,DailyPolicy-30d
+vm-contoso-sql01,rg-data-prod,rsv-contoso-prod,EnhancedPolicy-Hourly
